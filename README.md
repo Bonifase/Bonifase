@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Home Assistant System.
 - 🌱 I’m currently learning Machine Laerning Algorithms.
-- 👯 I’m looking to collaborate on backend or front end related tasks.
-- 🤔 I’m looking for help with developement of efficient algorithms, clean and well tested code.
-- 💬 Ask me about Computer Science, System Development, 
-- 📫 How to reach me: [bonifaseorwa.com](https://www.bonifaseorwa.com/)
+- 👯 I’m looking to collaborate and work with teams to create and build meaningful software products.
+- 🤔 I’m looking for more ideas on the developement of efficient algorithms interms of CPU time and memory consumption.
+- 💬 Ask me about Computer Science, Software System Development, Object Oriented Programming design principles and Programming Languages.
+- 📫 How to reach me: [Bonifase](https://www.bonifaseorwa.com/)
 - 😄 Pronouns: Boni
-- ⚡ Fun fact: Curious
+- ⚡ Fun fact: Curious!

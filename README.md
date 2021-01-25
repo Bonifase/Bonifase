@@ -12,7 +12,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> 
 
-
 ![Bonifase's github stats](https://github-readme-stats.vercel.app/api?username=bonifase&count_private=true&theme=algolia&show_icons=true&hide_title=false&hide_border=true&line_height=28&text_color=fff&icon_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonifase&langs_count=10&layout=compact&theme=algolia&hide_title=false&hide_border=true&line_height=18&text_color=fff&icon_color=fff)
 

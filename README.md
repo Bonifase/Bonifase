@@ -1,5 +1,6 @@
 
-![Profile views](https://gpvc.arturio.dev/bonifase)
+![Profile Views](https://komarev.com/ghpvc/?username=Bonifase)
+
 
 ### 👋 Hi there, I'm [Bonifase!](https://bonifase.github.io)
 
